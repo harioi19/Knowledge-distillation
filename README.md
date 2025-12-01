@@ -35,6 +35,7 @@ All required datasets are downloaded through code during execution.
 - Block 1 → Train & save models  
 - Block 2 → Upload test image and run inference  
 - Models saved to: `/content/saved_models/`
+- Manually run the code to get the teacher weights.
 
 ---
 
